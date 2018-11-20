@@ -1,1 +1,2 @@
 This is the first file
+Alice adds this line to file1
